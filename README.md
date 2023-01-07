@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **different JS libraries and sinking into the concepts of cyber security and ethical hacking.**
 
-- 👨‍💻 All of my projects are available at [uskhokhar.netlify.app](uskhokhar.netlify.app)
+- 👨‍💻 Currently working on **Whimsicle 🌪**, a ReactJs & Scss based web playground having multiple tools. Check it out at :(https://whimsicle.netlify.app/)
 
 - 💬 Ask me about **CSS, JavaScript, React, ThreeJs, and React-Three-Fiber**
 
