@@ -1,4 +1,4 @@
-<h2 align="left">Hello Fellas!👋!</h2>
+<h2 align="left">Hello Fellow👋!</h2>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<p align="left">Greetings Stranger on the internet, Utkarsh Singh Khokhar [USK] this side. I'm a web developer and designer, mostly spending time building JSX components on React and Next that will serve you straight into your browser. Other times, I'm just playing with colors and fonts with my utmost admiration for the beauty that CSS is!</p>
+<p align="left">Greetings Stranger on the internet, U.S.Khokhar this side. I'm a web developer and designer, mostly spending time building JSX components on React and Next that will serve you straight into your browser. Other times, I'm just playing with colors and fonts with my utmost admiration for the beauty that CSS is!</p>
 
 ###
 
