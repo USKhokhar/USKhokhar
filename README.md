@@ -79,12 +79,10 @@
 
 <img src="https://raw.githubusercontent.com/USKhokhar/USKhokhar/output/snake.svg" alt="Snake animation" />
 
-###
-
+### 
+---
 <div align="center">
-  <a href="https://open.spotify.com/user/314em4bb4fj2jh7uzmelpr7sepoa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+<a href="https://www.buymeacoffee.com/uskhokhar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=uskhokhar&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
 ###
