@@ -82,7 +82,7 @@
 ### 
 ---
 <div align="center">
-<a href="https://www.buymeacoffee.com/uskhokhar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=uskhokhar&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/uskhokhar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me your fav book&emoji=📖&slug=uskhokhar&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 </div>
 
 ###
