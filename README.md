@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USKhokhar&hide_title=false&hide_rank=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=USKhokhar&hide_title=false&hide_rank=fakse&rank_icon=github&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=USKhokhar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=USKhokhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USKhokhar&theme=monokai"  display=block height="150"  alt="1" >
@@ -49,6 +49,9 @@
 ###
 
 <div align="center">
+  <a href="https://uskhokhar.me/" target="_blank">
+    <img src="https://i.imgur.com/jTVaHFx.png" height="35" alt="portfolio"  />
+  </a>
   <a href="https://twitter.com/US_Khokhar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
@@ -71,7 +74,9 @@
 
 ###
 
-<p align="left">Greetings Stranger on the internet, U.S.Khokhar this side. I'm a web developer and designer, mostly spending time building JSX components on React and Next that will serve you straight into your browser. Other times, I'm just playing with colors and fonts with my utmost admiration for the beauty that CSS is!</p>
+<p align="left">
+A tech enthusiast with a focus on web and mobile app development, complemented by a flair for design. Actively contributing to open-source projects and passionate about pushing the boundaries of web technologies.  
+</p>
 
 ###
 
