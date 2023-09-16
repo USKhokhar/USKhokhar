@@ -79,6 +79,7 @@
 A tech enthusiast with a focus on web and mobile app development, complemented by a flair for design. Actively contributing to open-source projects and passionate about pushing the boundaries of web technologies.  
 </p>
 
+[![USK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uskhokhar&theme=react)](https://github.com/uskhokhar/github-readme-activity-graph)
 ---
 <div align="center">
 <a href="https://www.buymeacoffee.com/uskhokhar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me your fav book&emoji=📖&slug=uskhokhar&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
