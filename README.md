@@ -73,11 +73,17 @@
   </a>
 </div>
 
-###
-
 <p align="left">
 A tech enthusiast with a focus on web and mobile app development, complemented by a flair for design. Actively contributing to open-source projects and passionate about pushing the boundaries of web technologies.  
 </p>
+
+---
+
+### hacktoberFest 2023
+
+[![An image of @uskhokhar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uskhokhar)](https://holopin.io/@uskhokhar)
+
+###
 
 [![USK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uskhokhar&theme=react)](https://github.com/uskhokhar/github-readme-activity-graph)
 ---
