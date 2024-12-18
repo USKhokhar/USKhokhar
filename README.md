@@ -80,13 +80,3 @@ A tech enthusiast with a focus on web and mobile app development, complemented b
 ### hacktoberFest 2023
 
 [![An image of @uskhokhar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uskhokhar)](https://holopin.io/@uskhokhar)
-
-###
-
-[![USK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uskhokhar&theme=react)](https://github.com/uskhokhar/github-readme-activity-graph)
----
-<div align="center">
-<a href="https://www.buymeacoffee.com/uskhokhar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me your fav book&emoji=📖&slug=uskhokhar&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
-</div>
-
-###
