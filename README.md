@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=USKhokhar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt=""  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=uskhokhar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=USKhokhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://gitroll.io/api/badges/profiles/v1/uG7v1Q5huQ9MsgBoheIlEsxBhzvv2?theme=nord" height=350 />
 </div>
 
 ###
