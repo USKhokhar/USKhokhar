@@ -1,80 +1,77 @@
-<h2 align="left">Hello Fellow👋!</h2>
-
-###
+<!-- README.md - Utkarsh's Booting System -->
 
 <div align="center">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uG7v1Q5huQ9MsgBoheIlEsxBhzvv2?theme=nord" height=350 />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=BOOTING+USK+OS...;Loading+Creativity+Module...;Authenticating+User%3A+Utkarsh...;System+Ready.+" alt="Typing SVG" />
 </div>
 
-###
+```
+> systemctl status usk.service
+```
 
-<div align="center">
-  <img height="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY3NDFlNTY5ZTRhMDIxOGI1ODAyMzEyYmVlY2I5NDI3YzM1ZmNhYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zOvBKUUEERdNm/giphy.gif"  />
-</div>
+🧠 **Status**: Active (developer + designer mode)  
+🔄 **Uptime**: Always learning  
+🎯 **Focus**: Systems, design, automation, weird ideas  
+🎮 **Sidequests**: Hacking, short films, terminal UI, dotfiles sorcery
 
-###
+```
+> inxi -Fxz | grep "Skills"
+```
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="30" width="42" alt="d3js logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="30" width="42" alt="gatsby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" height="30" width="42" alt="jamstack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" width="42" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" width="42" alt="svelte logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" width="42" alt="threejs logo"  />
-</div>
+🛠️ **Languages**: JavaScript, TypeScript, Python, Bash  
+🌐 **Web**: React, Next.js, Node.js, Tailwind, Three.js  
+🧩 **Tools**: Git, Linux, Firebase, Docker, Figma, TryHackMe  
+🧠 **Mental models**: Design-first, CLI-above-GUI, Tinker-always
 
-###
+```
+> tree /usr/projects/
+```
 
-<div align="center">
-  <a href="https://uskhokhar.me/" target="_blank">
-    <img src="https://i.imgur.com/jTVaHFx.png" height="35" alt="portfolio"  />
-  </a>
-  <a href="https://twitter.com/US_Khokhar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/utkarsh-singh-khokhar-177662224/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="usk172004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/u.s.khokhar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/USK1_618" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/usk172004" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
-</div>
+```
+/usr/projects/
+├── portfolio-site/
+├── ascii-terminal-blog/
+├── ai-dream-prompter/
+├── tryhackme-writeups/
+├── dotfiles-for-chaos/
+└── ??? (loading...)
+```
 
-<p align="left">
-A tech enthusiast with a focus on web and mobile app development, complemented by a flair for design. Actively contributing to open-source projects and passionate about pushing the boundaries of web technologies.  
-</p>
+```
+> curl https://uskhokhar.me --verbose
+```
+
+> Serving thoughts, ideas & experiments at [uskhokhar.me](https://uskhokhar.me)  
+> Response 200 OK — HTML served with a side of design taste
+
+```
+> cat ~/philosophy.txt
+```
+
+> “Write code like poetry,  
+>  Design like it’s breathing,  
+>  Build like you’ll delete it tomorrow.”
+
+```
+> ./connect --all
+```
+
+[![Website](https://img.shields.io/badge/🌐%20Website-uskhokhar.me-1f1f1f?style=for-the-badge)](https://uskhokhar.me)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-utkarsh--singh--khokhar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-singh-khokhar-177662224/)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/usk172004)  
+[![Mail](https://img.shields.io/badge/Email-usk172004@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:usk172004@gmail.com)
+
+```
+> sudo reboot imagination
+```
 
 ---
 
-### hacktoberFest 2023
+<div align="center">
+  <img src="https://media.tenor.com/3mdpYz9p3EwAAAAC/hacking-terminal.gif" width="400" alt="Terminal Boot"/>
+</div>
 
-[![An image of @uskhokhar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uskhokhar)](https://holopin.io/@uskhokhar)
+<div align="center">
+  <sub><i>README last edited from a TTY interface in a parallel timeline</i></sub>  
+  <br/>
+  <kbd>~$</kbd> <span style="color:lime">Blazing into unknown directories...</span>
+</div>
