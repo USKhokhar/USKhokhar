@@ -11,7 +11,7 @@
 🧠 **Status**: Active (developer + designer mode)  
 🔄 **Uptime**: Always learning  
 🎯 **Focus**: Systems, design, automation, weird ideas  
-🎮 **Sidequests**: Hacking, short films, terminal UI, dotfiles sorcery
+🎮 **Sidequests**: short films, terminal UI, dotfiles sorcery
 
 ```
 > inxi -Fxz | grep "Skills"
@@ -19,8 +19,8 @@
 
 🛠️ **Languages**: JavaScript, TypeScript, Python, Bash  
 🌐 **Web**: React, Next.js, Node.js, Tailwind, Three.js  
-🧩 **Tools**: Git, Linux, Firebase, Docker, Figma, TryHackMe  
-🧠 **Mental models**: Design-first, CLI-above-GUI, Tinker-always
+🧩 **Tools**: Git, Linux, Firebase, Docker, Figma, Supabase  
+🧠 **Mental models**: Design-first, CLI-above-GUI
 
 ```
 > tree /usr/projects/
@@ -40,7 +40,7 @@
 > curl https://uskhokhar.me --verbose
 ```
 
-> Serving thoughts, ideas & experiments at [uskhokhar.me](https://uskhokhar.me)  
+> Serving thoughts, ideas & experiments at [uskhokhar.me](https://uskhokhar.vercel.app)  
 > Response 200 OK — HTML served with a side of design taste
 
 ```
@@ -55,10 +55,10 @@
 > ./connect --all
 ```
 
-[![Website](https://img.shields.io/badge/🌐%20Website-uskhokhar.me-1f1f1f?style=for-the-badge)](https://uskhokhar.me)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-utkarsh--singh--khokhar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-singh-khokhar-177662224/)  
+[![Website](https://img.shields.io/badge/🌐%20Website-uskhokhar.me-1f1f1f?style=for-the-badge)](https://uskhokhar.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-utkarsh--singh--khokhar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-singh-khokhar/)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/usk172004)  
-[![Mail](https://img.shields.io/badge/Email-usk172004@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:usk172004@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-usk172004@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:contact.uskhokhar@gmail.com)
 
 ```
 > sudo reboot imagination
