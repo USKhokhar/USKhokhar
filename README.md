@@ -59,7 +59,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-utkarsh--singh--khokhar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-singh-khokhar/)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/usk172004)  
 [![Mail](https://img.shields.io/badge/Email-usk172004@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:contact.uskhokhar@gmail.com)
-
+[![@USKhokhar Astro contributions](https://astro.badg.es/v2/contributor/USKhokhar.svg)](https://astro.badg.es/contributor/USKhokhar/)
 ```
 > sudo reboot imagination
 ```
